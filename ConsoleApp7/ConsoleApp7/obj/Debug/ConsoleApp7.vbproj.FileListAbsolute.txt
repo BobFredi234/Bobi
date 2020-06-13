@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\pc\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\pc\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.xml
+C:\Users\pc\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.vbprojAssemblyReference.cache
+C:\Users\pc\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.Resources.resources
+C:\Users\pc\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.vbproj.GenerateResource.cache
+C:\Users\pc\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.vbproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\pc\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.xml
+C:\Users\pc\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
